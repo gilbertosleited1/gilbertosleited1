@@ -1,5 +1,4 @@
 ### What's up Dev! <img src="https://media3.giphy.com/media/101DNxoBTatF16/giphy.gif?cid=790b76115b641b6c647507c9ecb7a40dddcfb1ebe417465d&rid=giphy.gif&ct=g" width="200px">
-[![Youtube](https://img.shields.io/youtube/channel/subscribers/UCgxQNglWC0N5rxDYiXlqGNQ?label=LS%20Consultoria%20%26%20Sistemas%20LTDA&style=social)](https://www.youtube.com/channel/UCgxQNglWC0N5rxDYiXlqGNQ/about)
 [![Instagram](https://img.shields.io/badge/intagram-gilbertosleite-blue?&style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/gilbertosleite/)](https://www.instagram.com/gilbertosleite/)
 [![Linkedin gsleite](https://img.shields.io/badge/-gsleite-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gsleite/)](https://www.linkedin.com/in/gsleite/)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://lsconsultorias.srv.br/projetos)](https://lsconsultorias.srv.br/projetos)
@@ -11,10 +10,14 @@
 <em>Specializing in Software Engineering at Estácio
 <img src="https://media3.giphy.com/media/u1WhXLjwgcXpHJBMRM/giphy.gif?cid=790b761180982daa55a2dbaf8afbb68d347e4f6a3fe4a7dd&rid=giphy.gif&ct=g" width="80">
 </br>
-       Teach Leader at
-<a href="https://www.iblueconsulting.com.br">D1 | Smarkio</a>
+       Developer at
+<a href="https://www.d1.cx/">D1 | Smarkio</a>
 <img src="https://media2.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif?cid=790b7611786df76f82f2ff9c9b54f3364afb62b0f694c904&rid=giphy.gif&ct=g" width="120">
-### <img src="https://media4.giphy.com/media/KQm5O05y9rzQA/giphy.gif?cid=790b7611f85ea12df8b42fe74b96ce6f022e8dac6c8f65c9&rid=giphy.gif&ct=g" alt="me" width="50"> About me
+</em>
+</p>
+
+### <img src="https://media4.giphy.com/media/KQm5O05y9rzQA/giphy.gif?cid=790b7611f85ea12df8b42fe74b96ce6f022e8dac6c8f65c9&rid=giphy.gif&ct=g" alt="me" width="50"> 
+About me
 
 ```javascript
 const gilberto = {
